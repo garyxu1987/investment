@@ -49,6 +49,7 @@
 	<modules>
 		<module>../investment-clawer</module>
 		<module>../investment-component/investment-eureka</module>
-		<module>../investment-component/investment-config</module>
+		<module>../investment-component/investment-zuul</module>
+		<module>../investment-component/investment-configserver</module>
 	</modules>
 </project>

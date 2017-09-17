@@ -3,6 +3,9 @@ server:
 spring:
   application:
     name: investment-clawer
+  cloud:
+    config:
+      uri: http://localhost:8001
 eureka:
   client:
     serviceUrl:
