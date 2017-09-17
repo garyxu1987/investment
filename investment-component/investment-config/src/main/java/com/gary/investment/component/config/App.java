@@ -1,4 +1,4 @@
-package org.investment.config;
+package com.gary.investment.component.config;
 
 /**
  * Hello world!
